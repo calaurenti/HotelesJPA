@@ -1,0 +1,38 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.iml
+*.ipr
+*.iws
+*/target
+target
+src/main/resources/version
+.idea
+version.txt
+
+**/version
+
+*.classpath
+*.prefs
+/*.project
+*.project
+
+/.settings
+/service/.settings
+/datasource/.settings
+/rest/.settings
+/support/environments/
+/support/conf/logback.xml
+/support/bin/newrelic/
+target/
+~
